@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bulli77
-- 👀 I’m interested in ... AIO TOOLS, Tools for social media and etc
-- 🌱 I’m currently learning ...phyton
+- 👀 I’m interested in ...in Phyton and Shell
+- 🌱 I’m currently learning ...phyton 
 - 💞️ I’m looking to collaborate on ...help me with ;)
 - 📫 How to reach me ...
 
